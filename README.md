@@ -1,7 +1,8 @@
 # Big-integer type int2023_t
 This integer data type supports numbers in the range [-2^2022 + 1; 2^2022 - 1].  
 Storage in **256-number-system.**  
-**sizeof(int2023_t) = 253 bytes**
+
+**sizeof(int2023_t) = 253 bytes.**
 
 # Operations
 The following operations are defined for it:  
